@@ -15,4 +15,3 @@ def main():
         return equation(a, b, c)
     else:
         print('a cannot be 0')
-        return main()

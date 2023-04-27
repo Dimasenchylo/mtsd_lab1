@@ -9,7 +9,6 @@ def main(filename):
             equation(a, b, c)
         else:
             print('a cannot be 0')
-            return main(filename)
 
     else:
         return None
